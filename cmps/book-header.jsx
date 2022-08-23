@@ -9,7 +9,7 @@ function _AppHeader(props) {
 						<img src="./assets/img/CT-logos_white.png" alt="" />
 					</div>
 				</span>
-				Book Shop
+				Book Shop!
 			</h1>
 			<h3
 				onClick={() => {
