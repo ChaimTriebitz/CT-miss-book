@@ -6,7 +6,7 @@ function _AppHeader(props) {
 				Welcome To
 				<span className="logo">
 					<div className="image-container">
-						<img src="./assets/img/CT-logos_white.png" alt="" />
+						<img src="./assets/img/CT-logos_white.png" alt="hi chaim" />
 					</div>
 				</span>
 				Book Shop!
