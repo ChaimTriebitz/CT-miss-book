@@ -6,10 +6,9 @@ function _AppHeader(props) {
 				Welcome To
 				<span className="logo">
 					<div className="image-container">
-						<img src="./assets/img/CT-logos_white.png" alt="poki" />
+						<img src="./assets/img/CT-logos_white.png" alt="muki" />
 					</div>
 				</span>
-				Book Shop!
 			</h1>
 			<h3
 				onClick={() => {
