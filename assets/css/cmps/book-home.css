@@ -1,0 +1,70 @@
+.book-home{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.home-header,.home-footer{
+    width: 100%;
+    background-color: rgba(69, 103, 137,0.3);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.home-header h1{
+    margin: 0;
+}
+
+.logo{
+    display: inline-block;
+}
+
+.logo .image-container{
+    width: 100px;
+    height: 100px;
+}
+
+.logo .image-container img{
+    margin-bottom: -25px;
+    padding: 5px;
+}
+
+
+
+.home-main{
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.1)
+}
+
+.home-main .image-container{
+    margin-top: 10px;
+    padding: 10px;
+    width: 50%;
+    height: 50%;
+}
+
+.media-nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+
+.media-nav img{
+    width: 50px;
+    height: 50px;
+}
+
+.home-footer h1{
+    margin: 0;
+    padding: 5px;
+}

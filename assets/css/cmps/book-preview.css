@@ -1,0 +1,20 @@
+.book-preview {
+    padding: 2px  10px;
+	display: flex;
+	min-height: 550px;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #555555;
+	border: #f1f1f1 solid 2px;
+	background-color: rgba(255, 222, 173, 0.5);
+}
+.preview-details{
+	text-align: center;
+	margin: auto;
+    padding: 15px;
+}
+
+.book-preview .image-container img{
+	width: 100%;
+}

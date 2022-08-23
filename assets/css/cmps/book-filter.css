@@ -1,0 +1,16 @@
+.book-filter{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.btn-search-focus{
+    background-color: #456789;
+    color: #eeeeee;
+    font-size: 1.2em;
+    width: 250px;
+    height: 50px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
